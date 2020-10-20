@@ -1,4 +1,4 @@
-package com.example.counter_app
+package com.tatos.networkvideos
 
 import io.flutter.embedding.android.FlutterActivity
 
